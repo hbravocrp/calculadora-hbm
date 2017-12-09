@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">calculator-HBM</string>
+
+    // Numbers
+    <string name="number_one">1</string>
+    <string name="number_two">2</string>
+    <string name="number_three">3</string>
+    <string name="number_four">4</string>
+    <string name="number_five">5</string>
+    <string name="number_six">6</string>
+    <string name="number_seven">7</string>
+    <string name="number_eight">8</string>
+    <string name="number_nine">9</string>
+    <string name="number_zero">0</string>
+
+
+    // Operators
+    <string name="operators_sum">+</string>
+    <string name="operators_difference">-</string>
+    <string name="operators_product">x</string>
+    <string name="operators_quotient">/</string>
+    <string name="operators_percentage">%</string>
+    <string name="operators_equal">=</string>
+    <string name="operators_bracket">( )</string>
+    <string name="operators_square">&#8730;</string>
+
+    // Others
+    <string name="button_back">&#8592;</string>
+    <string name="button_dot">.</string>
+    <string name="button_delete">C</string>
+    <string name="button_pi">&#960;</string>
+    <string name="button_cube_root">&#8731;</string>
+    <string name="button_super_squared">&#178;</string>
+    <string name="button_super_cubed">&#179;</string>
+
+
+</resources>
